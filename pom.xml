@@ -6,7 +6,7 @@
 
     <groupId>io.github.zanhorvat</groupId>
     <artifactId>aoc21</artifactId>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <packaging>pom</packaging>
 
     <properties>
@@ -17,6 +17,7 @@
 
     <modules>
         <module>day01</module>
+        <module>day02</module>
     </modules>
 
     <dependencies>
