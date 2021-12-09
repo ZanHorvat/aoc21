@@ -1,12 +1,9 @@
-package io.zanhorvat.aoc21.day08
+package io.github.zanhorvat.aoc21.day08
 
 import java.io.File
 
 class Puzzle {
 
-    /**
-     * Part 1
-     */
     fun countTheObvious(path: String): Int{
         var count = 0
         File(path).forEachLine {
